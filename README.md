@@ -1,2 +1,2 @@
 # Data-Science
-A simple modle regression line in python
+A simple model regression line in python
