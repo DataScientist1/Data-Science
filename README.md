@@ -1,2 +1,2 @@
 # Data-Science
-Here are some models of ML
+A simple modle regression line in python
